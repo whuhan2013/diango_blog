@@ -1,14 +1,6 @@
 # diango_blog
 This is a django blog
 
----
-layout: post
-title: Django搭建简易博客
-date: 2016-8-8
-categories: blog
-tags: [python]
-description: Django
----
 
 
 **Django简易博客，主要实现了以下功能**       
@@ -66,4 +58,4 @@ TEMPLATES = [
 
 **效果图**
 
-![](http://picturebag.qiniudn.com/Snip20141229_4.png)
+![](https://raw.githubusercontent.com/whuhan2013/ImageRepertory/master/python/p1.jpg)
